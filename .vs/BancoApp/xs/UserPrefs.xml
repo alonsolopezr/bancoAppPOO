@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{05A262CB-6E91-46A7-88C4-CDDBD067744A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/Cliente.cs" relfile="ObjetosVoladoresPOO/Cliente.cs" line="64" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BancoApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ObjetosVoladoresPOO/Program.cs">
+    <Files>
+      <File FileName="ObjetosVoladoresPOO/Program.cs" Line="43" Column="12" />
+      <File FileName="ObjetosVoladoresPOO/Cliente.cs" Line="61" Column="10" />
+      <File FileName="ObjetosVoladoresPOO/BancoEnum.cs" Line="2" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BancoApp" expanded="True" selected="True">
+            <Node name="BancoApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

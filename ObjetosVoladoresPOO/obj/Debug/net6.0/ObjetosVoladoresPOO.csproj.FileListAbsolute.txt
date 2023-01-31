@@ -1,0 +1,15 @@
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/bin/Debug/net6.0/ObjetosVoladoresPOO
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/bin/Debug/net6.0/ObjetosVoladoresPOO.deps.json
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/bin/Debug/net6.0/ObjetosVoladoresPOO.runtimeconfig.json
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/bin/Debug/net6.0/ObjetosVoladoresPOO.dll
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/bin/Debug/net6.0/ObjetosVoladoresPOO.pdb
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/obj/Debug/net6.0/ObjetosVoladoresPOO.csproj.AssemblyReference.cache
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/obj/Debug/net6.0/ObjetosVoladoresPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/obj/Debug/net6.0/ObjetosVoladoresPOO.AssemblyInfoInputs.cache
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/obj/Debug/net6.0/ObjetosVoladoresPOO.AssemblyInfo.cs
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/obj/Debug/net6.0/ObjetosVoladoresPOO.csproj.CoreCompileInputs.cache
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/obj/Debug/net6.0/ObjetosVoladoresPOO.dll
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/obj/Debug/net6.0/refint/ObjetosVoladoresPOO.dll
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/obj/Debug/net6.0/ObjetosVoladoresPOO.pdb
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/obj/Debug/net6.0/ObjetosVoladoresPOO.genruntimeconfig.cache
+/Users/aloncello/code/dotNET/ObjetosVoladoresPOO/ObjetosVoladoresPOO/obj/Debug/net6.0/ref/ObjetosVoladoresPOO.dll
